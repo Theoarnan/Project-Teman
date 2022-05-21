@@ -1,0 +1,61 @@
+PROJECT = CRYBEPARTY =
+
+#SUPERADMIN
+->Include Laporan PDF, XLSX, WORD, dll
+
+DASHBOARD
+
+Product
+ 1. Kaos
+ 2. Tas
+ 3. Kemeja
+ 4. Jaket
+ 5. Celana
+ 6. Aksesoris
+
+Customer
+ 1. Customer
+
+Karyawan
+ 1. Karyawan
+ - Master Data Karyawan
+   1. Posisi
+   2. Gaji
+
+Master Sub Data
+ 1. Teknik Salon -> Harga
+ 2. Ukuran -> Harga
+ 3. Bahan -> Harga
+ 4. Kategori Kaos -> Harga
+ 5. Packing-> Harga
+
+Stocks
+ 1. Stock Masuk
+ 2. Stock Keluar
+
+Absen
+ - Harian
+
+Order Task
+ 1. List Task
+
+Keuangan
+ 1. Laba/Rugi
+ 2. Pengeluaran
+ 3. Pemasukkan
+ - Master Data Keuangan
+   1. Jenis Pengeluaran
+   2. Jenis Pemasukan
+
+Order
+ 1. App Order
+ 2. List Order
+
+Chat
+
+Setting
+ 1. Setting WEB
+ 2. User
+
+Logout
+
